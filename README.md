@@ -1,6 +1,5 @@
 # Poly-Flash
 
-![test](https://github.com/serenitysource/poly-flash/actions/workflows/test.yaml/badge.svg)
 
 An open source flashloan smart contract on polygon network
 
@@ -13,7 +12,7 @@ An open source flashloan smart contract on polygon network
 Run the following command.
 
 ```bash
-git clone https://github.com/yuichiroaoki/poly-flash.git
+git clone https://github.com/serenitysource/poly-flash.git
 cd poly-flash
 ```
 
@@ -75,7 +74,7 @@ It costs about 0.2 MATIC to deploy `Flashloan` contract.
 
 ## Example Contract
 
-https://polygonscan.com/address/0xb6c4448386c4ecf4e5eab057351f8a6a8a465a0d
+https://polygonscan.com/address/0x8311bcA90818330AA228DA17aA8fB7a0bBBaF97C
 
 ## Available Scripts
 
