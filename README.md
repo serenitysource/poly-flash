@@ -1,6 +1,6 @@
 # Poly-Flash
 
-![test](https://github.com/yuichiroaoki/poly-flash/actions/workflows/test.yaml/badge.svg)
+![test](https://github.com/serenitysource/poly-flash/actions/workflows/test.yaml/badge.svg)
 
 An open source flashloan smart contract on polygon network
 
